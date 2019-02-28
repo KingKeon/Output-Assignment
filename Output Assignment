@@ -1,1 +1,14 @@
 
+public class OutputAssignment
+{
+   public static void main(String[] args)
+   {
+      //output greeting
+      System.out.println("I'm a gorilla in a fuckin coupe, finna pull up to the zoo, nigga") ;
+      System.out.println("I'm \n a \n gorilla \n in \n a \n fuckin \n coupe \n , \n finna \n pull \n up \n to \n the \n zoo \n nigga \n") ;
+      System.out.println("---------------------------------------------------------\n3)A)") ; //Divider
+    System.out.println("    PARALLELOG\n   A        R\n  R        A\n ALLELOGRAM\nB)\n   APEZO\n  R     I\n TRAPEZOID\nC)\nRECTANGLE\nE       L\nC       G\nT       N\nA       A\nN       T\nG       C\nL       E\nELGNATCER\nD)\n   D\n  III\n AAAAA\nMMMMMMM\n OOOOO\n  NNN\n   D\n ") ; //Task 3 Println
+    System.out.println("---------------------------------------------------------\n4)") ; //Divider
+    System.out.println("*****   *****\n  *     *\n  *     *  **\n  *     *   *\n  *     *****\n") ; //Task 4 Println
+  } //End Main
+} //End Class
